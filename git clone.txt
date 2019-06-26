@@ -1,4 +1,5 @@
-       Github
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+Github
 create a new repository on the command line
  
 echo "# Linux-commends" >> README.md
